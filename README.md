@@ -1,7 +1,7 @@
 # granting-of-credit
 
 
-## Predicting store's sales
+## Creating a credit granting model
 
 ![concessão-de-crédito](https://user-images.githubusercontent.com/72039442/213340033-fc0f04c2-634b-41c3-a34a-a62efa9ce055.png)
 
